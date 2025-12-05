@@ -57,11 +57,13 @@ The program should:
 ### **Compile**
 
 **For C:**
+
 gcc calendar.c -o calendar
 
 ./calendar
 
 **For JAVA:**
+
 javac CalendarApp.java
 
 java CalendarApp
